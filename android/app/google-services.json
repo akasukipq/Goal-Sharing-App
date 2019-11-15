@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "116554198365",
+    "firebase_url": "https://lab-2-mobile-programming.firebaseio.com",
+    "project_id": "lab-2-mobile-programming",
+    "storage_bucket": "lab-2-mobile-programming.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116554198365:android:153a560ede2cc1d7890cb4",
+        "android_client_info": {
+          "package_name": "com.example.goalflutapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116554198365-ktfaghnl0p05dk5f98525u5h8hp66ogk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjJ1s5D3P8n3PPHBuV6ehbvPebEfuhNEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116554198365-ktfaghnl0p05dk5f98525u5h8hp66ogk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
